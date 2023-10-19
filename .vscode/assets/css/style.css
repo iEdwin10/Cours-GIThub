@@ -20,7 +20,7 @@ body {
 }
 button {
     padding: 10px 15px;
-    background-color: #d72525;
+    background-color: #2578d7;
     color: white;
     border: none;
     border-radius: 4px;
@@ -31,7 +31,7 @@ button.edit{
     padding: 5px 3px;
 }
 button:hover {
-    background-color: #a11717;
+    background-color: #3517a1;
 }
 li {
     list-style: none;
